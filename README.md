@@ -1,8 +1,13 @@
 ### Hi there, I'm Shani Rosenblit 👋
+
 -Back-End: C#, Node.js
+
 -Front-End: React, Angular, HTML5, CSS3, ASP.NET
+
 -Databases: Mongodb, SQL, SQLite
+
 -Cloud: Azure
+
 -Additional: Docker, Unit Tests, Entity-Framework and much more.
 
 <!--

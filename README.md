@@ -1,14 +1,18 @@
-### Hi there, I'm Shani Rosenblit 👋
+## Hi there, Welcome to my profile 👋
 
--Back-End: C#, Node.js
+### 🛠 I'm a Full-Stack developer who's specializes in:
 
--Front-End: React, Angular, HTML5, CSS3, ASP.NET
+- Back-End: C#, Node.js
 
--Databases: Mongodb, SQL, SQLite
+- Front-End: React, Angular, HTML5, CSS3, ASP.NET
 
--Cloud: Azure
+- Databases: Mongodb, SQL, SQLite
 
--Additional: Docker, Unit Tests, Entity-Framework and much more.
+- Cloud: Azure
+
+- Additional: Docker, Unit Tests, Entity-Framework and much more.
+
+I'm also deeply familliar with Design Patterns & Data Structures.
 
 <!--
 **ShaniRosenblit/ShaniRosenblit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
